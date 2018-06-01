@@ -43,7 +43,7 @@ options {
 
         allow-transfer { none; };
         allow-update { none; };
-        llow-recursion { none; };
+        allow-recursion { none; };
 
         version "none";
         recursion no;
